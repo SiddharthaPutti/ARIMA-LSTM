@@ -1,2 +1,2 @@
 # ARIMA-LSTM
-stock prince prediction 
+stock price prediction 
